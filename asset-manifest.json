@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/marvel-comic-app/static/js/main.fdad54b0.chunk.js",
+    "main.js.map": "/marvel-comic-app/static/js/main.fdad54b0.chunk.js.map",
+    "runtime-main.js": "/marvel-comic-app/static/js/runtime-main.e1e19b35.js",
+    "runtime-main.js.map": "/marvel-comic-app/static/js/runtime-main.e1e19b35.js.map",
+    "static/js/2.e5b28ee4.chunk.js": "/marvel-comic-app/static/js/2.e5b28ee4.chunk.js",
+    "static/js/2.e5b28ee4.chunk.js.map": "/marvel-comic-app/static/js/2.e5b28ee4.chunk.js.map",
+    "index.html": "/marvel-comic-app/index.html",
+    "static/js/2.e5b28ee4.chunk.js.LICENSE.txt": "/marvel-comic-app/static/js/2.e5b28ee4.chunk.js.LICENSE.txt",
+    "static/media/logo.051ad89f.svg": "/marvel-comic-app/static/media/logo.051ad89f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1e19b35.js",
+    "static/js/2.e5b28ee4.chunk.js",
+    "static/js/main.fdad54b0.chunk.js"
+  ]
+}
