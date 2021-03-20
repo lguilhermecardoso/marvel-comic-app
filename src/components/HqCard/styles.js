@@ -9,6 +9,13 @@ export const Container = styled.div`
     width: 100%;
     max-height: 150px;
     border-radius: 0.3rem 0.3rem 0 0;
+
+    @media (max-width: 959px) {
+     width: 95%;
+    }
+    @media (max-width: 568px) {
+      width: 95%;
+    }
   }
 `
 

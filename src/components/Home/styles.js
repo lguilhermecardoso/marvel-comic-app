@@ -45,6 +45,19 @@ export const Content = styled.div`
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-column-gap: 1rem; 
     grid-row-gap: 1rem;
+
+    @media (max-width: 959px) {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-column-gap: 0.8rem; 
+      grid-row-gap: 0.8rem;
+    }
+    @media (max-width: 568px) {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-column-gap: 0.3rem; 
+      grid-row-gap: 0.3rem;
+    }
   }
 
   footer {
